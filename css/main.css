@@ -25,3 +25,7 @@ form {
     border: 1px solid white;
     margin: 10px auto;
 }
+
+#map {
+    height: 50%;
+}
